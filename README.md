@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=20,15,3&section=header&text=Celvin+Aprilian+Saputra&fontSize=38&fontAlign=50&fontAlignY=45&desc=UI%2FUX+Designer+%7C+CSS+Styling+%26+Responsive+Design&descSize=18&descAlign=50&descAlignY=65" alt="Celvin Aprilian Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=20,15,3&section=header&text=Celvin+Aprilian+Saputra&fontSize=38&fontAlign=50&fontAlignY=45&desc=UI%2FUX+Designer+%7C+CSS+Styling+and+Responsive+Design&descSize=18&descAlign=50&descAlignY=65" alt="Celvin Aprilian Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Celvin Aprilian Saputra 👋</h1>
@@ -18,7 +18,7 @@
   <a href="mailto:apriliancelvin@gmail.com">
     <img src="https://img.shields.io/badge/Email-apriliancelvin@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.instagram.com/evinsaha?stkn=eW5ucTRtbXFwdXky&utm_source=qr" target="_blank">
+  <a href="https://www.instagram.com/evinsaha/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@evinsaha-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
